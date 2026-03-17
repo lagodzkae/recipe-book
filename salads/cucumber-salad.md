@@ -5,10 +5,11 @@
 - 2 cucumbers
 - 1 onion
 - 1 tbsp honey
-- 1 tsp salt 
+- 1 tsp salt
+- 1 tsp of pepper
 
 # Instructions
 
 - Mix everything together
 - Chill for 20 minutes
-- Season with salt
+- Season with salt and pepper
